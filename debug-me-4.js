@@ -11,7 +11,7 @@ if (BMI > 25) {
 } else if (BMI < 18) {
   outcome = "Depending on your build, you might be underweight";
 } else {
-  outcome = ("Looks like your height / weight ratio is pretty healthy");
+  outcome = "Looks like your height / weight ratio is pretty healthy";
 }
 
 console.log(outcome);
